@@ -15,7 +15,7 @@ Para compilar o projeto poderá ser utilizado os comandos do Maven "clean packag
 
 ## Testes: 
 
-Os testes do projeto podem ser realizado utilizando o Postman para os endpoint a seguir:
+Os testes do projeto podem ser realizado utilizando o Postman para os endpoints a seguir:
 
 * `https://localhost:9001/v1/public/characters`
 * `http://localhost:9001/v1/public/characters/{characterId}`
